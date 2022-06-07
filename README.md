@@ -1,4 +1,4 @@
-Nice to meet you , I'm Annie (she/her)👋🏻
+## Nice to meet you , I'm Annie (she/her)👋🏻
 
 I'm a 17 year old high school senior with a keen interest in fusing the worlds of design and technology. This coming fall, I will be majoring in Systems Design Engineering at the University of Waterloo. I am currently exploring Winter 2022 internship opportunities. Please feel free to reach out!
 
@@ -10,10 +10,10 @@ I'm a 17 year old high school senior with a keen interest in fusing the worlds o
 
 📫 Here's how you can reach me!                                                                                                                                            
 LinkedIn: https://www.linkedin.com/in/anniecai2004                                                                                                                         
-Email: anniecai2004@gmail.com                                                                                                                                                   
+Email: anniecai2004@gmail.com
 
-
-----
+##
+                                                                                                                                                                         
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aanxniee&layout=compact&theme=swift&show_icons=true)](https://github.com/aanxniee/github-readme-stats)
 
 
