@@ -5,7 +5,7 @@ I'm a 17 year old high school senior with a keen interest in fusing the worlds o
    → I've previously worked as a Web Developer at EasyMedia and a Project Development Intern at Hatch Coding 🐣                                                                         
    → I'm on a journey to bridge the gender gap in STEM with a community of hard-working friends @ Superposition Toronto                                                      
    → I'm fluent in English and Mandarin!                                                                                                                                           
-   → I love nature and particularly enjoy visiting various gardens, flower shops, and parks!🌼
+   → I love nature and particularly enjoy walking around various gardens and parks!🌼
 
 
 📫 Here's how you can reach me!                                                                                                                                            
