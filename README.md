@@ -10,7 +10,7 @@ I'm a 17 year old high school senior with a keen interest in fusing the worlds o
 
 📫 Here's how you can reach me!                                                                                                                                            
 LinkedIn: https://www.linkedin.com/in/anniecai2004                                                                                                                         
-Email: anniecai2004@gmail.com
+Email: ajcai@uwaterloo.ca
 
 ##
                                                                                                                                                                          
