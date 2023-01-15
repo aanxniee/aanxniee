@@ -25,6 +25,6 @@ Email: ajcai@uwaterloo.ca
 
 ##
                                                                                                                                                                          
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aanxniee&layout=compact&theme=swift&show_icons=true)](https://github.com/aanxniee/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=aanxniee&layout=compact&theme=swift&show_icons=true)](https://github.com/aanxniee/github-readme-stats)
 
 
