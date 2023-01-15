@@ -5,7 +5,7 @@ I'm a 18 year old freshman with a keen interest in design, development, and prod
    → I'm currently a Software Developer @ Home Trust Company in Toronto, ON! 🏠
    
    
-   → Last term, I was a Fullstack Developer at UW Product Management, Director at UW Women in Engineering, and Organizer at UW Tech+  
+   → I am also a Fullstack Developer at UW Product Management and UW Tech+, and Director at UW Women in Engineering  
    
    
    → I've previously worked as a Web Developer at EasyMedia and a Project Development Intern at Hatch Coding 🐣         
