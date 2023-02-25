@@ -2,21 +2,12 @@
 
 I'm a 18 year old freshman with a keen interest in design, development, and product management. I am currenty studying Systems Design Engineering at the University of Waterloo!
 
-   → I'm currently a Software Developer @ Home Trust Company in Toronto, ON! 🏠
-   
-   
-   → I am also a Fullstack Developer at UW Product Management and UW Tech+, and Director at UW Women in Engineering  
-   
-   
-   → I've previously worked as a Web Developer at EasyMedia and a Project Development Intern at Hatch Coding 🐣         
-   
-   
-   → I'm passionate about bridging the gender gap and advocating for underpresented communities in tech         
-   
-   
-   → I'm fluent in English and Mandarin!                                                                                                                                                            
-   
-   → I love nature and particularly enjoy walking around various gardens and parks 🌼
+- I'm currently a Software Developer @ Home Trust Company in Toronto, ON! 🏠
+- I am also a Fullstack Developer at UW Product Management and UW Tech+, and Director at UW Women in Engineering  
+- I've previously worked as a Web Developer at EasyMedia and a Project Development Intern at Hatch Coding 🐣         
+- I'm passionate about bridging the gender gap and advocating for underpresented communities in tech         
+- I'm fluent in English and Mandarin!                                                                                                                      
+- I love nature and particularly enjoy walking around various gardens and parks 🌼
 
 
 📫 Here's how you can reach me!                                                                                                                                            
