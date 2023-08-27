@@ -2,8 +2,8 @@
 
 I'm a 18 year old freshman with a keen interest in design, development, and product management. I am currenty studying Systems Design Engineering at the University of Waterloo!
 
-- I previously interned as a Software Developer @ Home Trust Company in Toronto, ON! 🏠
-- I am also a Tech Lead at UW Product Management, Fullstack Developer at UW Tech+, and Director at UW Women in Engineering  
+- I am currently a SWE @ RBC, Global Securities in Toronto, ON. I previously interned as a SDE @ Home Trust Company! 🏠
+- I am also a Project Developer at UW Blueprint and Tech Lead at UW Tech+
 - I'm passionate about bridging the gender gap and advocating for underpresented communities in tech         
 - I'm fluent in English and Mandarin!                                                                                                                      
 - I love nature and particularly enjoy walking around various gardens and parks 🌼
