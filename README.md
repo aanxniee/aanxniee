@@ -1,6 +1,6 @@
 ## Nice to meet you , I'm Annie (she/her)👋🏻
 
-I'm a 18 year old freshman with a keen interest in design, development, and product management. I am currenty studying Systems Design Engineering at the University of Waterloo!
+I'm a 18 year old sophomore with a keen interest in design, development, and product management. I am currenty studying Systems Design Engineering at the University of Waterloo!
 
 - I am currently a SWE @ RBC, Global Securities in Toronto, ON. I previously interned as a SDE @ Home Trust Company! 🏠
 - I am also a Project Developer at UW Blueprint and Tech Lead at UW Tech+
