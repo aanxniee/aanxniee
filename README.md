@@ -1,9 +1,8 @@
 ## 👋🏻 Nice to meet you , I'm Annie (she/her)
 
-I'm a 18 year old sophomore with a keen interest in fullstack development and machine learning. I am studying Systems Design Engineering at the University of Waterloo!
+I'm a 19 year old sophomore with a keen interest in fullstack development and machine learning. I am studying Systems Design Engineering at the University of Waterloo!
 
-- Currently interning as a SWE @ RBC, Global Cyber Security, building some new cool tools for threat hunting 🔐
-- Previously interned as a SDE @ Home Trust Company in Digital Banking
+- Previously interned as a SWE @ RBC, Global Cyber Security and as a SDE @ Home Trust Company in Digital Banking
 - Building tech for social good @ UW Blueprint and UW Tech+ 🛠️
 
 ## 🌱 I’m currently learning about ...
@@ -12,7 +11,6 @@ I'm a 18 year old sophomore with a keen interest in fullstack development and ma
 - LLMs and the limitless things you can do with them
 
 ## 💭 One day I hope to ...
-- Do some cool stuff with webscraping + ML
 - Explore San Francisco and everything west coast ✈️
 - Get FAANGM+ internships
 
