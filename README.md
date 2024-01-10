@@ -1,13 +1,12 @@
 ## 👋🏻 Nice to meet you , I'm Annie (she/her)
 
-I'm a 19 year old sophomore with a keen interest in fullstack development and machine learning. I am studying Systems Design Engineering at the University of Waterloo!
+I'm a second year studying Systems Design Engineering at the University of Waterloo who enjoys building interesting solutions to everyday problems! I am interested in big data, AI/ML, and full-stack development.
 
 - Previously interned as a SWE @ RBC, Global Cyber Security and as a SDE @ Home Trust Company in Digital Banking
-- Building tech for social good @ UW Blueprint and UW Tech+ 🛠️
+- Building tech for social good @ UW Blueprint 🛠️
 
 ## 🌱 I’m currently learning about ...
-- Cybersecurity threat hunting - threat models, adversary tactics... and all that cool stuff!
-- Data engineering - building data ingestion algorithms and ETL pipelines
+- Big data and data engineering - building data ingestion algorithms and ETL pipelines
 - LLMs and the limitless things you can do with them
 
 ## 💭 One day I hope to ...
