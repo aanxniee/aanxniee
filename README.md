@@ -2,6 +2,7 @@
 
 I'm a second year studying Systems Design Engineering at the University of Waterloo who enjoys building interesting solutions to everyday problems! I am interested in big data, AI/ML, and full-stack development.
 
+- Incoming SWE @ Newfront in San Francisco this summer!
 - Previously interned as a SWE @ RBC, Global Cyber Security and as a SDE @ Home Trust Company in Digital Banking
 - Building tech for social good @ UW Blueprint 🛠️
 
@@ -10,7 +11,7 @@ I'm a second year studying Systems Design Engineering at the University of Water
 - LLMs and the limitless things you can do with them
 
 ## 💭 One day I hope to ...
-- Explore San Francisco and everything west coast ✈️
+- Explore New York City ✈️
 - Get FAANGM+ internships
 
 ## ✨ Fun fact
@@ -18,7 +19,7 @@ I'm a second year studying Systems Design Engineering at the University of Water
 - I'm passionate about bridging the gender gap and advocating for underpresented communities in tech         
 - I love love love matcha! I've tried over 30 different matchas in Toronto, let's talk about it! 🍵
 
-## 📫 I'm seeking Summer 2024 internships! How to reach me ... 
+## 📫 I'm seeking Winter 2025 internships! How to reach me ... 
 LinkedIn: https://www.linkedin.com/in/anniecai2004                                                                                                                         
 Email: ajcai@uwaterloo.ca
                                                                                                                                                                          
