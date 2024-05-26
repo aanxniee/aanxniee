@@ -2,7 +2,7 @@
 
 I'm a second year studying Systems Design Engineering at the University of Waterloo who enjoys building interesting solutions to everyday problems! I am interested in big data, AI/ML, and full-stack development.
 
-- Incoming SWE @ Newfront in San Francisco this summer!
+- SWE @ Newfront in San Francisco this summer, building backend services and LLM pipelines!
 - Previously interned as a SWE @ RBC, Global Cyber Security and as a SDE @ Home Trust Company in Digital Banking
 - Building tech for social good @ UW Blueprint 🛠️
 
