@@ -1,6 +1,6 @@
 ## 👋🏻 Nice to meet you , I'm Annie (she/her)
 
-I'm a second year studying Systems Design Engineering at the University of Waterloo who enjoys building interesting solutions to everyday problems! I am interested in big data, AI/ML, and backend development.
+I'm a Systems Design Engineering student at the University of Waterloo whos enjoys building solutions to everyday problems! I am interested in big data, AI/ML, and backend development.
 
 - SWE @ Newfront in San Francisco this summer, building backend services and LLM pipelines! 🤖
 - Previously interned as a SWE @ RBC, Global Cyber Security
