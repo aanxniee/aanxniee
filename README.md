@@ -2,19 +2,20 @@
 
 I'm a Systems Design Engineering student at the University of Waterloo whos enjoys building solutions to everyday problems! I am interested in big data, AI/ML, and backend development.
 
-- SWE @ Newfront in San Francisco this summer, building backend services and LLM pipelines! 🤖
-- Previously interned as a SWE @ RBC, Global Cyber Security
+- Incoming SWE Intern @ Datadog in New York City
+- Prev SWE Intern @ Newfront in San Francisco this summer, building backend services and LLM pipelines! 🤖
 - Building tech for social good @ UW Blueprint 🛠️
 
 ## 🌱 I’m currently learning about ...
+- Distributed systems
 - Big data and data engineering - building data ingestion algorithms and ETL pipelines
 - RAG + LLMs and the limitless things you can do with them
 
 ## 💭 One day I hope to ...
-- Explore New York City ✈️
+- Travel Asia ✈️
 - Get FAANGM+ internships
 
-## 📫 I'm seeking Winter 2025 internships! How to reach me ... 
+## 📫 I'm seeking Fall 2025 internships! How to reach me ... 
 LinkedIn: https://www.linkedin.com/in/anniecai2004                                                                                                                         
 Email: ajcai@uwaterloo.ca
                                                                                                                                                                          
