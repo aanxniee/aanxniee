@@ -1,8 +1,8 @@
 ## 👋🏻 Nice to meet you , I'm Annie (she/her)
 
-I'm a Systems Design Engineering student at the University of Waterloo whos enjoys building solutions to everyday problems! I am interested in big data, AI/ML, and backend development.
+I'm a Systems Design Engineering student at the University of Waterloo whos enjoys building solutions to everyday problems! I am interested in distributed systems, big data, AI/ML, and backend development.
 
-- Incoming SWE Intern @ Datadog in New York City
+- SWE Intern @ Datadog in New York City, architecting core services and distributed systems for Database Monitoring
 - Prev SWE Intern @ Newfront in San Francisco this summer, building backend services and LLM pipelines! 🤖
 - Building tech for social good @ UW Blueprint 🛠️
 
