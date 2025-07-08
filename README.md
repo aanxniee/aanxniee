@@ -1,16 +1,17 @@
 ## 👋🏻 Nice to meet you , I'm Annie (she/her)
 
-I'm a Systems Design Engineering student at the University of Waterloo whos enjoys building solutions to everyday problems! I am interested in distributed systems and backend development.
+I'm a Systems Design Engineering student at the University of Waterloo whos enjoys building solutions to everyday problems! I am interested in building low-latency, high-throughput, distributed systems.
 
-- SWE Intern @ Datadog in New York City, architecting core backend services and distributed systems for Database Monitoring
-- Prev SWE Intern @ Newfront in San Francisco last summer, building data ingestion and LLM pipelines! 🤖
+- Incoming SWE Intern @ Snowflake in Bellevue, WA, where I will be working on the core traffic routing infrastructure that handles all of Snowflake's incoming requests across mulit-cloud environments!
+- Prev. SWE Intern @ Datadog in NYC, architecting distributed caching and streaming observability pipelines 
+- Prev. SWE Intern @ Newfront (YC18) in SF, building a RAG chatbot! 🤖
 - Building tech for social good @ UW Blueprint 🛠️
 
 ## 🌱 I’m currently learning about ...
-- Distributed and high performant Go systems
-- RAG + LLMs and the limitless things you can do with them
+- Traffic routing and edge engineering
+- Distributed and performant Go systems
 
-## 📫 I'm seeking Fall 2025/Summer 2026 internships! How to reach me ... 
+## 📫 I'm seeking Summer 2026 internships! How to reach me ... 
 LinkedIn: https://www.linkedin.com/in/anniecai2004                                                                                                                         
 Email: ajcai@uwaterloo.ca
                                                                                                                                                                          
