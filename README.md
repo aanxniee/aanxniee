@@ -5,6 +5,7 @@ I'm a Systems Design Engineering student at the University of Waterloo whos enjo
 - SWE Intern @ Snowflake in Bellevue, WA, where I am working on ingress load balancing for Snowflake's multi-cloud environments! ❄️
 - Prev. SWE Intern @ Datadog in NYC, architecting distributed caching and streaming observability pipelines 
 - Prev. SWE Intern @ Newfront (YC18) in SF, building a RAG chatbot! 🤖
+- Researching synchronization techniques and locks for persistent memory as a URA @ UWaterloo
 - Building tech for social good @ UW Blueprint 🛠️
 
 ## 🌱 I’m currently learning about ...
