@@ -2,7 +2,7 @@
 
 I'm a Systems Design Engineering student at the University of Waterloo whos enjoys building solutions to everyday problems!
 
-- SWE Intern @ Stripe, building ML models/evaluation services to predict payment network costs, optimizing Stripe’s largest expense 💸
+- SWE Intern @ Stripe, building ML models and evaluation services to predict payment network costs, optimizing Stripe’s largest expense 💸
 - Prev. SWE Intern @ Snowflake, tuning auto-scaling and load balancing policies for all of Snowflake's traffic ❄️
 - Prev. SWE Intern @ Datadog, architecting distributed caching and streaming observability pipelines 
 - Researching synchronization techniques and locks for persistent memory as a URA @ UWaterloo
