@@ -14,7 +14,7 @@ I'm a Systems Design Engineering student at the University of Waterloo whos enjo
 - Agents, MCP, and how to build reliable LLM-powered systems
 - Distributed and performant Go systems
   
-## 📫 I'm seeking 2026 new grad opportunities! How to reach me ... 
+## 📫 I'm seeking 2027 new grad opportunities! How to reach me ... 
 LinkedIn: https://www.linkedin.com/in/anniecai2004                                                                                                                         
 Email: ajcai@uwaterloo.ca
                                                                                                                                                             
